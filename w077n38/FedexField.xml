@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<!--
+Fedex Field
+Author: Josh Babcock
+License: GPL
+
+Scenery/Objects/w080n30/w077n38/1695800.stg
+OBJECT_STATIC FedexField.xml      -76.86448209 38.90767319 62 90
+-->
+
+<PropertyList>
+
+ <path>FedexField.ac</path>
+
+ <animation>
+  <type>noshadow</type>
+  <object-name>LightBacks</object-name>
+  <object-name>Lights</object-name>
+  <object-name>Sign</object-name>
+  <object-name>SignBack</object-name>
+  <object-name>Struts</object-name>
+ </animation>
+
+ <animation>
+  <type>alpha-test</type>
+  <object-name>LightBacks</object-name>
+  <object-name>Lights</object-name>
+  <object-name>Sign</object-name>
+  <object-name>SignBack</object-name>
+  <object-name>Struts</object-name>
+  <alpha-factor>0.05</alpha-factor>
+ </animation>
+
+ <!-- Turn flood lights on and off -->
+
+ <animation>
+  <type>material</type>
+  <object-name>Lights</object-name>
+  <condition>
+   <or>
+    <greater-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>20</value>
+    </greater-than-equals>
+    <less-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>4</value>
+    </less-than-equals>
+   </or>
+  </condition>
+  <emission>
+   <red>1</red>
+   <green>1</green>
+   <blue>1</blue>
+  </emission>
+ </animation>
+
+ <animation>
+  <type>material</type>
+  <object-name>Lights</object-name>
+  <condition>
+   <and>
+    <less-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>19</value>
+    </less-than-equals>
+    <greater-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>5</value>
+    </greater-than-equals>
+   </and>
+  </condition>
+  <emission>
+   <red>0</red>
+   <green>0</green>
+   <blue>0</blue>
+  </emission>
+ </animation>
+
+ <animation>
+  <type>material</type>
+  <object-name>Seats</object-name>
+  <object-name>Interior</object-name>
+  <object-name>Field</object-name>
+  <object-name>Stairs</object-name>
+  <condition>
+   <or>
+    <greater-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>20</value>
+    </greater-than-equals>
+    <less-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>4</value>
+    </less-than-equals>
+   </or>
+  </condition>
+  <ambient>
+   <red>0</red>
+   <green>0</green>
+   <blue>0</blue>
+  </ambient>
+  <diffuse>
+   <red>0</red>
+   <green>0</green>
+   <blue>0</blue>
+  </diffuse>
+  <emission>
+   <red>0.6</red>
+   <green>0.6</green>
+   <blue>0.6</blue>
+  </emission>
+ </animation>
+
+ <animation>
+  <type>material</type>
+  <object-name>Seats</object-name>
+  <object-name>Interior</object-name>
+  <object-name>Field</object-name>
+  <object-name>Stairs</object-name>
+  <condition>
+   <and>
+    <less-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>19</value>
+    </less-than-equals>
+    <greater-than-equals>
+     <property>/sim/time/utc/hour</property>
+     <value>5</value>
+    </greater-than-equals>
+   </and>
+  </condition>
+  <ambient>
+   <red>0.6</red>
+   <green>0.6</green>
+   <blue>0.6</blue>
+  </ambient>
+  <diffuse>
+   <red>0.6</red>
+   <green>0.6</green>
+   <blue>0.6</blue>
+  </diffuse>
+  <emission>
+   <red>0</red>
+   <green>0</green>
+   <blue>0</blue>
+  </emission>
+ </animation>
+
+</PropertyList>
+

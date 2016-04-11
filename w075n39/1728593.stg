@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Power/coolingtower.xml -74.640833 39.290833 -65.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -74.722222 39.253333 -116.2 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -74.657778 39.251389 -72.99 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -74.652472 39.258194 -118.75 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -74.618889 39.318056 -147.26 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -74.583194 39.361361 -111.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -74.582222 39.3625 -135.55 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.634589 39.291142 -423.53 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.634167 39.290833 -423.53 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.633745 39.290525 -423.53 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.633611 39.29 -355.25 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.607222 39.261944 -468.52 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -74.680833 39.328889 0.96 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -74.679444 39.325 0.61 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -74.676944 39.296667 0.2 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -74.676944 39.298056 0.27 180

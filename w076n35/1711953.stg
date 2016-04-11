@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.543611 35.267222 -124.4 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.537222 35.261389 -106.76 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.527778 35.263889 -107.28 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -75.520833 35.255 -441.18 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -75.541389 35.265 -449.4 180
+OBJECT_STATIC HatterasLight.xml -75.528817 35.250533 0.82 270
