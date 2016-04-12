@@ -1,8 +1,1 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.732722 32.900639 -100.49 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.71 32.928333 -65.7 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.646944 32.986139 -100.54 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.646111 32.987778 -115.58 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.640667 32.985528 -67.66 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.613333 32.907222 -167.97 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -79.699167 32.924722 4.26 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -79.695556 32.940278 2.58 180
+OBJECT_BASE 1646265.btg

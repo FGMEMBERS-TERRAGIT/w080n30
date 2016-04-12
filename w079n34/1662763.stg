@@ -1,14 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac -78.003597 34.716281 10.03 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -78.202444 34.742778 -98.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -78.169111 34.704194 -80.03 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -78.110722 34.642194 -53.48 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -78.108889 34.629722 -103.49 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.216098 34.736438 26.09 271.69
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.216027 34.736129 26.3 100.68
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.215956 34.735819 26.52 100.68
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.214709 34.730394 27.25 100.71
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.214318 34.728696 27.25 100.7
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.214205 34.748567 27.68 82.1
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.21372 34.726092 27.8 100.69
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.013448 34.62971 17 243.92
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.000721 34.626916 16.99 252.32
+OBJECT_BASE 1662763.btg
+OBJECT KACZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.010543 34.717699 10.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.996726 34.718073 6.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -78.003711 34.718602 8.7 0.00

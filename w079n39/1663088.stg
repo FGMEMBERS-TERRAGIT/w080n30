@@ -1,9 +1,4 @@
-OBJECT_SHARED Models/Power/windturbine.xml -78.999817 39.793778 845.37 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.998981 39.795347 839.89 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.998103 39.7969 830.38 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.997194 39.798444 819.38 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.996461 39.800042 804.28 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.99475 39.801442 802.61 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.992508 39.802756 819.84 180
-OBJECT_SHARED Models/Power/windturbine.xml -78.990897 39.804167 824.94 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -78.779722 39.807778 365.27 180
+OBJECT_BASE 1663088.btg
+OBJECT PS49.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.991000 39.856966 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.986271 39.863753 -9999.0 0.00

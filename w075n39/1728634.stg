@@ -1,5 +1,5 @@
-OBJECT_SHARED Models/Airport/ils.xml -74.297128 39.923428 21.26 311.77
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.410833 39.946944 -126.4 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.406667 39.901667 -80.08 180
-OBJECT_SHARED Models/Airport/marker.ac -74.307311 39.917811 21.17 180
-OBJECT_SHARED Models/Airport/localizer.xml -74.2829 39.93365 20.59 139.75
+OBJECT_BASE 1728634.btg
+OBJECT KMJX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.301103 39.922370 22.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.283652 39.932624 21.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -74.292897 39.928117 24.0 0.00

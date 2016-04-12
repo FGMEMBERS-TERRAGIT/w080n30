@@ -1,17 +1,10 @@
-OBJECT_SHARED Models/Airport/ndb.ac -76.10634 39.535112 16.03 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.240167 39.515111 8.01 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.234722 39.525833 51.13 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.234667 39.517222 -29.43 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.234167 39.517222 -16.26 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.193889 39.578972 -28.98 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.193611 39.509722 -111.18 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.193056 39.511111 -108.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.192778 39.510278 -109.55 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.172778 39.543056 -64.92 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.120861 39.534139 -137.11 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.118611 39.565278 -30.92 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.101583 39.564444 -39.7 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.073194 39.589639 -52.72 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.064444 39.611944 36.06 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -76.066944 39.551389 -455.31 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -76.066944 39.551667 -455.1 180
+OBJECT_BASE 1695843.btg
+OBJECT 0W3.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.203188 39.563863 125.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.204950 39.566541 129.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.205059 39.569315 127.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.200324 39.566101 125.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.203046 39.569642 126.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.197595 39.565975 123.0 0.00
+OBJECT MD08.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.106073 39.534762 -9999.0 0.00

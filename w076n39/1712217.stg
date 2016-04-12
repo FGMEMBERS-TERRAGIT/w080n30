@@ -1,7 +1,1 @@
-OBJECT_SHARED Models/Power/coolingtower.xml -75.534444 39.47 29.67 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.666389 39.461944 -104.88 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.636389 39.415 -117.11 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.633056 39.463889 -142.61 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.519722 39.463611 -104.03 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.535836 39.462718 -420.4 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.535275 39.462838 -420.29 180
+OBJECT_BASE 1712217.btg

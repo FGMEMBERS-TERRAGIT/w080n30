@@ -1,45 +1,9 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.475 39.365 -166.69 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.465 39.343611 -122.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.459444 39.353611 -184.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.446667 39.354444 -116.64 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.444722 39.358611 -168.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.438056 39.373056 -153.28 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.436389 39.354444 -112.84 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.433611 39.355556 -128.17 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -74.425278 39.356944 -91.5 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -74.4675 39.342778 -425.3 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -74.453056 39.349444 -436.99 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -74.412778 39.369722 -398.21 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -74.469444 39.341389 -437.47 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -74.439444 39.353611 -404.18 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -74.4325 39.355556 -383.93 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -74.414722 39.367222 -440.27 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -74.456944 39.350556 -442.47 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -74.448333 39.350556 -369.02 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -74.446944 39.353056 -458.64 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -74.465278 39.343333 -421.17 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -74.447222 39.351667 -422.29 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -74.433333 39.374167 -405.47 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -74.424722 39.361111 -401.5 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -74.418056 39.360556 -405.17 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -74.462778 39.345 -430.49 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -74.455 39.348056 -412.07 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -74.448611 39.351389 -391.71 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -74.423611 39.361667 -405.68 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -74.418889 39.362778 -441.91 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -74.448333 39.351111 -359.18 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -74.443889 39.352778 -408.92 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -74.431944 39.3575 -393.57 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -74.425278 39.356944 -385.1 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -74.422222 39.358889 -416.17 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -74.416667 39.364167 -415 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -74.445278 39.3525 -419.55 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -74.4375 39.355278 -385.53 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -74.453889 39.349167 -383.93 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -74.439722 39.361944 -443.14 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -74.450556 39.350278 -414.31 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -74.435833 39.355833 -423.63 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -74.4325 39.356667 -382.42 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -74.426667 39.356944 -401.18 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -74.419444 39.359722 -360.75 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -74.445833 39.366111 1.32 180
+OBJECT_BASE 1728594.btg
+OBJECT 0NJ0.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.433804 39.358917 -9999.0 0.00
+OBJECT 92N.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.417234 39.355160 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -74.418617 39.354839 -9999.0 0.00
+OBJECT N26.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.419819 39.357316 -9999.0 0.00
+OBJECT KAIY.btg

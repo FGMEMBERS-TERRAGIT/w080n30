@@ -1,26 +1,4 @@
-OBJECT_SHARED Models/Communications/radio-tall.xml -78.436667 34.578889 15.52 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.499729 34.507734 31.78 328.15
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.49676 34.506302 31.6 329.67
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.495067 34.505486 30.84 327.63
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.48565 34.50017 31.16 325.59
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.333802 34.622245 20.13 293.02
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.329637 34.614178 15.82 293.02
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.327737 34.610497 13.92 293.02
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.325349 34.605872 13.76 292.92
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.323716 34.602677 13.62 292.82
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.320026 34.59546 14.6 288.53
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.317937 34.588683 14.38 284.17
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.31789 34.588529 14.38 284.17
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.314138 34.576356 14.36 284.24
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.312952 34.572506 14.41 284.39
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.306494 34.551994 15.18 284.54
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.302972 34.540807 15.96 284.49
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.301858 34.537244 15.83 284.45
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.29909 34.528395 15.43 284.45
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.297495 34.523295 15.28 284.45
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.296937 34.521512 15.24 284.46
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.296758 34.52094 15.22 284.46
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.295935 34.51831 15.18 284.13
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.29531 34.516213 15.04 283.8
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.292279 34.506042 13.82 282.98
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.290744 34.500168 11.63 283.17
+OBJECT_BASE 1662754.btg
+OBJECT NC65.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.272734 34.557093 8.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.263374 34.562132 6.5 0.00

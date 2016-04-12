@@ -1,24 +1,13 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.216111 39.3725 61.95 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.206944 39.286389 133.19 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.206944 39.286667 135.13 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.189694 39.329167 102.99 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.171361 39.347333 162.52 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.125556 39.353056 111.07 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.026639 39.318694 70.65 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.025639 39.318306 107.27 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.022361 39.362917 48.83 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -77.006389 39.319444 134.29 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.249679 39.356243 157.21 358.88
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.219467 39.286552 229.77 257.62
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.218544 39.289806 208.3 247.39
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.213424 39.295944 199.59 241.19
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.212895 39.296831 196.04 245.16
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.21282 39.296956 197.08 245.16
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.212603 39.29732 200.08 245.23
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.211692 39.298847 212.67 245.75
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.210182 39.301506 210.04 246.63
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.208549 39.304481 190.87 245.76
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.208525 39.30452 191.42 244.26
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.207084 39.306804 211.01 245.94
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.205551 39.309726 223.62 247.91
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.204368 39.370942 174.1 250.02
+OBJECT_BASE 1679443.btg
+OBJECT MD47.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.098481 39.330474 226.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.100642 39.334897 228.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.095369 39.335290 224.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.093208 39.330867 219.4 0.00
+OBJECT MD46.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.009330 39.269755 168.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.001181 39.269344 177.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -77.005256 39.270029 -9999.0 0.00
+OBJECT MD02.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.081345 39.286328 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.069170 39.288326 -9999.0 0.00

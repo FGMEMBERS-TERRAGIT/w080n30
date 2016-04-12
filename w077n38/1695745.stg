@@ -1,5 +1,7 @@
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.746678 38.010521 38.3 312.06
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.743649 38.007821 41.39 311.03
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.74335 38.007546 41.01 310.59
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.737791 38.002434 30.74 312.27
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.734942 38.000105 38.47 316.81
+OBJECT_BASE 1695745.btg
+OBJECT VA23.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.614475 38.121847 1.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.612662 38.116188 1.5 0.00
+OBJECT 8VA2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.565973 38.011455 6.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.560048 38.006583 1.5 0.00

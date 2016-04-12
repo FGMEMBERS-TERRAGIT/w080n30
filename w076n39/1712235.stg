@@ -1,13 +1,18 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.192389 39.635944 -88.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.122778 39.699444 -81.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.101972 39.694917 -94.79 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.099722 39.675833 -86.13 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.078056 39.746111 -90.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.033222 39.6515 -63.19 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.028333 39.6825 -81.73 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.025278 39.733611 -94.35 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.023611 39.749722 -96.45 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -75.088889 39.689444 -288.16 180
-OBJECT_SHARED Models/Power/generic_pylon_200m.ac -75.033056 39.7 41.27 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.019937 39.705538 52.14 48.5
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.014146 39.710573 46.01 48.5
+OBJECT_BASE 1712235.btg
+OBJECT 17N.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.039223 39.704310 40.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.026772 39.706646 48.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -75.033174 39.705939 43.2 0.00
+OBJECT 28NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.219337 39.632685 40.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.221032 39.641988 42.0 0.00
+OBJECT 61NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.147090 39.691780 42.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.139377 39.691226 42.0 0.00
+OBJECT NJ64.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.080018 39.702899 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.080328 39.708441 -9999.0 0.00
+OBJECT 8NJ8.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.158254 39.744829 -9999.0 0.00
+OBJECT 27NJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.126348 39.749404 -9999.0 0.00

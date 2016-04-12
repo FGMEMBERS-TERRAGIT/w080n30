@@ -1,13 +1,1 @@
-OBJECT_SHARED Models/Power/windturbine.xml -79.393611 39.913333 841.75 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.392778 39.915 827.8 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.3925 39.918889 815.8 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.391944 39.918056 819.7 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.391667 39.916389 824.77 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.391111 39.920833 807.52 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.388889 39.923889 810.64 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.387778 39.926389 837.74 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.386667 39.927778 845.64 180
-OBJECT_SHARED Models/Power/windturbine.xml -79.386111 39.928333 846.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.472583 39.881194 430.97 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -79.418056 39.927778 626.5 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -79.358367 39.974242 859.61 180
+OBJECT_BASE 1646714.btg

@@ -1,2 +1,8 @@
-OBJECT_SHARED Models/Communications/radio-tall.xml -77.352778 35.041111 -310.86 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -77.336389 35.104444 8.64 180
+OBJECT_BASE 1679170.btg
+OBJECT 13NC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.250053 35.022500 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.264451 35.026478 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.263138 35.028150 3.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.252691 35.034519 6.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.248472 35.034225 7.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.248598 35.026784 6.6 0.00

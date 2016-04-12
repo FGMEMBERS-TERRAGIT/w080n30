@@ -1,9 +1,1 @@
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.749375 37.603606 7.32 240.2
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.748524 37.60497 8.87 243.69
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.747641 37.606384 8.51 244.11
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.747534 37.606562 8.18 244.48
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.7454 37.610093 9.75 244.42
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.741897 37.615891 9.29 244.4
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.74147 37.616596 9.04 251.29
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.741406 37.616839 9 258.24
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.740727 37.61943 9.31 258.27
+OBJECT_BASE 1712097.btg

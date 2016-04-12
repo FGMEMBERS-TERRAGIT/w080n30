@@ -1,6 +1,6 @@
-OBJECT_SHARED Models/Airport/ndb.ac -76.566542 36.025411 3.15 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.732361 36.033889 -117.48 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.664167 36.086389 -92.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.661806 36.076722 -72.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.599722 36.079722 -130.53 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -76.591111 36.12 -101.66 180
+OBJECT_BASE 1695617.btg
+OBJECT KEDE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.570261 36.020078 3.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.567900 36.022801 3.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.569278 36.037111 3.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.557733 36.029922 -9999.0 0.00

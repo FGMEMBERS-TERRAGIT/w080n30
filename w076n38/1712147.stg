@@ -1,22 +1,12 @@
-OBJECT_SHARED Models/Airport/ndb.ac -75.199633 38.362615 10.33 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.233667 38.258278 -135.91 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.223667 38.343 -80.74 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.216944 38.328889 -149.11 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.196722 38.327722 -79.96 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.186667 38.349722 -85.97 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.186389 38.34725 -85.72 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.150833 38.335278 -93.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.115556 38.329167 -153.69 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -75.090833 38.327778 -141.55 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -75.0775 38.346944 -444.26 180
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -75.11931375 38.31221783 0.96 227
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -75.11926667 38.31218611 0.95 227
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -75.11922845 38.3121498 0.94 227
-OBJECT_STATIC koxb-hangar-a.ac -75.11899722 38.31123611 0.9 317
-OBJECT_STATIC koxb-hangar-b-c-d.ac -75.11986111 38.311875 0.99 317
-OBJECT_STATIC koxb-hangar-b-c-d.ac -75.119575 38.31168055 0.96 317
-OBJECT_STATIC koxb-hangar-b-c-d.ac -75.11929722 38.311475 0.93 317
-OBJECT_STATIC koxb-hangar-e-f.ac -75.12215 38.31298611 1.33 317
-OBJECT_STATIC koxb-hangar-e-f.ac -75.12182777 38.31273611 1.25 317
-OBJECT_STATIC koxb-tour-hangar.ac -75.11871388 38.31083888 0.86 317
-OBJECT_STATIC koxb-terminal.ac -75.11821388 38.31031944 0.78 170
+OBJECT_BASE 1712147.btg
+OBJECT 4MD1.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.231522 38.372383 7.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.229968 38.363958 7.5 0.00
+OBJECT KOXB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.128159 38.306307 1.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.126909 38.314373 1.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.116705 38.305999 1.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.125333 38.315255 2.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -75.121181 38.310711 1.2 0.00
+OBJECT 3MD3.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.119676 38.312121 -9999.0 0.00
