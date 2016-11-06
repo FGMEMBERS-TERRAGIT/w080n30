@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>balt-co-police-boat.ac</path>
+
+<animation>
+  <type>rotate</type>
+  <property>/ai/models/kmtn-boats/roll</property>
+  <factor>0.25</factor>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+</animation>
+
+<animation>
+  <type>rotate</type>
+  <property>/ai/models/kmtn-boats/pitch</property>
+  <factor>0.125</factor>
+  <axis>
+   <x>1</x>
+   <y>0</y>
+   <z>0</z>
+  </axis>
+</animation>
+
+<nasal>
+    <load>
+        var wind_node = props.globals.getNode("/environment/wind-speed-kt");
+        var time_node = props.globals.getNode("/sim/time/elapsed-sec");
+        var roll_node = props.globals.getNode("/ai/models/kmtn-boats/roll");
+        var pitch_node = props.globals.getNode("/ai/models/kmtn-boats/pitch");
+        var loopid = 1;
+        var loop = func(id) {
+            if (id != loopid) return;
+
+            var rollcyclesec = 2.55;
+            var pitchcyclesec = 3.08;
+
+            var rolltimer = time_node.getValue()/rollcyclesec - int(time_node.getValue()/rollcyclesec);
+            var rollwave = math.sin(2*math.pi*rolltimer);
+            roll_node.setValue(rollwave*(wind_node.getValue()+1));
+
+            var pitchtimer = (time_node.getValue()+1)/pitchcyclesec - int((time_node.getValue()+1)/pitchcyclesec);
+            var pitchwave = math.sin(2*math.pi*pitchtimer);
+            pitch_node.setValue(pitchwave*(wind_node.getValue()+1));
+            
+            settimer(func { loop(id); }, 0);
+        }
+        settimer(func { loop(loopid); }, 0);
+    </load>
+    <unload>
+       loopid += 1;
+    </unload>
+</nasal>
+
+</PropertyList>

@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<!-- project: /home/jbabcock/fg_dev/WashingtonMonument/WashMon -->
+<!-- cursor: -19.598642349243 -64.013252258301 28.536563873291 -->
+
+<PropertyList>
+ <path>WashMon.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>25000</max-m>
+ </animation>
+
+ <animation>
+  <type>noshadow</type>
+  <object-name>Gravel</object-name>
+ </animation>
+
+ <LightXparams>
+  <light-near>0.4</light-near>
+  <light-med>0.8</light-med>
+  <light-far>10</light-far>
+ </LightXparams>
+
+ <animation>
+  <name>LightXGroup</name>
+  <object-name>LightX0</object-name>
+  <object-name>LightX1</object-name>
+  <object-name>LightX2</object-name>
+  <object-name>LightX3</object-name>
+  <object-name>LightX4</object-name>
+  <object-name>LightX5</object-name>
+  <object-name>LightX6</object-name>
+  <object-name>LightX7</object-name>
+ </animation>
+
+ <animation>
+  <type>select</type>
+  <name>LightXGroupNight</name>
+  <object-name>LightXGroup</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ </animation>
+
+ <animation>
+  <type>alpha-test</type>
+  <object-name>LightXGroup</object-name>
+  <alpha-factor>0.001</alpha-factor>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX0</object-name>
+  <offset-m>159.486662</offset-m>
+  <axis>
+   <x>4.254634</x>
+   <y>1.230174</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX1</object-name>
+  <offset-m>159.486662</offset-m>
+  <axis>
+   <x>4.254634</x>
+   <y>-1.230175</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX2</object-name>
+  <offset-m>159.487474</offset-m>
+  <axis>
+   <x>1.331203</x>
+   <y>-4.254635</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX3</object-name>
+  <offset-m>159.487474</offset-m>
+  <axis>
+   <x>-1.331203</x>
+   <y>-4.254634</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX4</object-name>
+  <offset-m>159.486662</offset-m>
+  <axis>
+   <x>-4.254635</x>
+   <y>-1.230175</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX5</object-name>
+  <offset-m>159.486662</offset-m>
+  <axis>
+   <x>-4.254635</x>
+   <y>1.230175</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX6</object-name>
+  <offset-m>159.487474</offset-m>
+  <axis>
+   <x>-1.331203</x>
+   <y>4.254634</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX7</object-name>
+  <offset-m>159.487474</offset-m>
+  <axis>
+   <x>1.331202</x>
+   <y>4.254635</y>
+   <z>159.425156</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX0</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX1</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX2</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX3</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX4</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX5</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX6</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX7</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX0</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX1</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX2</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX3</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX4</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX5</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX6</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX7</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+</PropertyList>

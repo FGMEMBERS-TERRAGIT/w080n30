@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<!-- Washington DC Metro Police radio tower
+w080n30/w078n38/1679419.stg
+OBJECT_STATIC MPDTower.xml -77.026389 38.962222 74.9 180
+Josh Babcock (c) 2006
+-->
+
+<PropertyList>
+
+ <path>MPDTower.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>25000</max-m>
+ </animation>
+
+ <animation>
+  <type>noshadow</type>
+  <name>OrderObjects</name>
+  <object-name>L1</object-name>
+  <object-name>L2</object-name>
+  <object-name>L3</object-name>
+  <object-name>L4</object-name>
+  <object-name>L5</object-name>
+ </animation>
+
+ <LightXparams>
+  <light-near>0.4</light-near>
+  <light-med>0.8</light-med>
+  <light-far>10</light-far>
+ </LightXparams>
+
+ <animation>
+  <name>LightXGroup</name>
+  <object-name>LightX0</object-name>
+  <object-name>LightX1</object-name>
+  <object-name>LightX2</object-name>
+ </animation>
+
+ <animation>
+  <type>select</type>
+  <name>LightXGroupNight</name>
+  <object-name>LightXGroup</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ </animation>
+
+ <animation>
+  <type>alpha-test</type>
+  <object-name>LightXGroup</object-name>
+  <alpha-factor>0.001</alpha-factor>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX0</object-name>
+  <offset-m>62.94618</offset-m>
+  <axis>
+   <x>19.03212</x>
+   <y>0.004191</y>
+   <z>60</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX1</object-name>
+  <offset-m>62.94618</offset-m>
+  <axis>
+   <x>-9.512433</x>
+   <y>-16.484394</y>
+   <z>60</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>LightX2</object-name>
+  <offset-m>62.94618</offset-m>
+  <axis>
+   <x>-9.519683</x>
+   <y>16.480207</y>
+   <z>60</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX0</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX1</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>LightX2</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX0</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX1</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>LightX2</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../LightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../LightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../LightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>25000</max-m>
+ </animation>
+
+ <FlashingLightXparams>
+  <light-near>0.4</light-near>
+  <light-med>0.8</light-med>
+  <light-far>10</light-far>
+ </FlashingLightXparams>
+
+ <animation>
+  <type>select</type>
+  <name>FlashingLightXNight</name>
+  <object-name>FlashingLightX</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ </animation>
+
+ <animation>
+  <type>alpha-test</type>
+  <object-name>FlashingLightX</object-name>
+  <alpha-factor>0.001</alpha-factor>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>FlashingLightX</object-name>
+  <offset-m>1026.672416</offset-m>
+  <axis>
+   <x>0</x>
+   <y>1000</y>
+   <z>232.5</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>billboard</type>
+  <object-name>FlashingLightX</object-name>
+  <spherical type="bool">true</spherical>
+ </animation>
+
+ <animation>
+  <type>dist-scale</type>
+  <object-name>FlashingLightX</object-name>
+  <interpolation>
+   <entry>
+    <ind>0</ind>
+    <dep alias="../../../../FlashingLightXparams/light-near"/>
+   </entry>
+   <entry>
+    <ind>500</ind>
+    <dep alias="../../../../FlashingLightXparams/light-med"/>
+   </entry>
+   <entry>
+    <ind>16000</ind>
+    <dep alias="../../../../FlashingLightXparams/light-far"/>
+   </entry>
+  </interpolation>
+ </animation>
+
+</PropertyList>
+

@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>wt-kadw.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-propwerty>/sim/rendering/static-lod/bare</max-propwerty>
+ </animation>
+
+ <animation>
+  <type>alpha-test</type>
+  <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+ <animation>
+  <object-name>GreenFlash.1</object-name>
+  <object-name>GreenFlash.2</object-name>
+  <object-name>WhiteFlash.1</object-name>
+  <object-name>WhiteFlash.2</object-name>
+  <object-name>GreenHalo</object-name>
+  <object-name>WhiteHalo</object-name>
+  <enable-hot type="bool">false</enable-hot>
+ </animation>
+
+ <animation>
+  <type>range</type>
+	<object-name>Railings</object-name>
+	<object-name>Walkway</object-name>
+	<object-name>Base</object-name>
+  <min-m>0</min-m>
+  <max-propwerty>/sim/rendering/static-lod/detailed</max-propwerty>
+ </animation>
+
+ <animation>
+  <type>range</type>
+	<object-name>InnerPillars</object-name>
+  <min-m>0</min-m>
+  <max-propwerty>/sim/rendering/static-lod/rough</max-propwerty>
+ </animation>
+
+ <animation>
+  <type>select</type>
+  <object-name>GreenFlash.1</object-name>
+  <object-name>GreenFlash.2</object-name>
+  <object-name>WhiteFlash.1</object-name>
+  <object-name>WhiteFlash.2</object-name>
+  <object-name>GreenHalo</object-name>
+  <object-name>WhiteHalo</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.5693</value>
+   </greater-than>
+  </condition>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>GreenHalo</object-name>
+  <object-name>WhiteHalo</object-name>
+  <min-m>0</min-m>
+  <max-m>2000</max-m>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>GreenHalo</object-name>
+  <object-name>WhiteHalo</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>90.0</factor>
+  <axis>
+   <z>1</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>Head</object-name>
+  <min-m>0</min-m>
+  <max-propwerty>/sim/rendering/static-lod/detailed</max-propwerty>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>Head</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.5693</value>
+   </greater-than>
+  </condition>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>90.0</factor>
+  <axis>
+   <z>1</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>GreenFlash.1</object-name>
+  <min-m>0</min-m>
+  <max-m>1000</max-m>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>GreenFlash.1</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>90.0</factor>
+  <axis>
+   <z>1</z>
+  </axis>
+ </animation>
+ 
+ <animation>
+  <type>flash</type>
+  <object-name>GreenFlash.1</object-name>
+  <center>
+   <z-m>61.95</z-m>
+  </center>
+  <axis>
+   <y>-1</y>
+   <z>0.1</z>
+  </axis>
+  <power>120</power>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>GreenFlash.2</object-name>
+  <min-m>1000</min-m>
+  <max-m>16000</max-m>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>GreenFlash.2</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>90.0</factor>
+  <axis>
+   <z>1</z>
+  </axis>
+ </animation>
+ 
+ <animation>
+  <type>flash</type>
+  <object-name>GreenFlash.2</object-name>
+  <center>
+   <z-m>61.95</z-m>
+  </center>
+  <axis>
+   <y>-1</y>
+   <z>0.1</z>
+  </axis>
+  <power>120</power>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>WhiteFlash.1</object-name>
+  <min-m>0</min-m>
+  <max-m>1000</max-m>
+ </animation>
+ 
+ <animation>
+  <type>rotate</type>
+  <object-name>WhiteFlash.1</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>90.0</factor>
+  <axis>
+   <z>1</z>
+  </axis>
+ </animation>
+ 
+ <animation>
+  <type>flash</type>
+  <object-name>WhiteFlash.1</object-name>
+  <center>
+   <z-m>61.95</z-m>
+  </center>
+  <axis>
+   <y>1</y>
+   <z>0.1</z>
+  </axis>
+  <power>100</power>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>WhiteFlash.2</object-name>
+  <min-m>1000</min-m>
+  <max-m>16000</max-m>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>WhiteFlash.2</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>90.0</factor>
+  <axis>
+   <z>1</z>
+  </axis>
+ </animation>
+ 
+ <animation>
+  <type>flash</type>
+  <object-name>WhiteFlash.2</object-name>
+  <center>
+   <z-m>61.95</z-m>
+  </center>
+  <axis>
+   <y>1</y>
+   <z>0.1</z>
+  </axis>
+  <power>100</power>
+ </animation>
+
+	<CircleXparams>
+		<light-near>0.4</light-near>
+		<light-med>0.8</light-med>
+		<light-far>10</light-far>
+	</CircleXparams>
+
+	<animation>
+		<name>CircleXGroup</name>
+		<object-name>CircleX0</object-name>
+		<object-name>CircleX1</object-name>
+		<object-name>CircleX2</object-name>
+		<object-name>CircleX3</object-name>
+		<object-name>CircleX4</object-name>
+	</animation>
+
+	<animation>
+		<type>select</type>
+		<name>CircleXGroupNight</name>
+		<object-name>CircleXGroup</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+	</animation>
+
+	<animation>
+		<type>alpha-test</type>
+		<object-name>CircleXGroup</object-name>
+		<alpha-factor>0.001</alpha-factor>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>CircleX0</object-name>
+		<offset-m>52.621414</offset-m>
+		<axis>
+			<x>17.187071</x>
+			<y>12.562463</y>
+			<z>48.122784</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>CircleX1</object-name>
+		<offset-m>52.622428</offset-m>
+		<axis>
+			<x>17.259266</x>
+			<y>-12.467371</y>
+			<z>48.122784</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>CircleX2</object-name>
+		<offset-m>52.623709</offset-m>
+		<axis>
+			<x>-6.523214</x>
+			<y>-20.270672</y>
+			<z>48.122784</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>CircleX3</object-name>
+		<offset-m>52.623489</offset-m>
+		<axis>
+			<x>-21.293785</x>
+			<y>-0.063551</y>
+			<z>48.122784</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>translate</type>
+		<object-name>CircleX4</object-name>
+		<offset-m>52.62207</offset-m>
+		<axis>
+			<x>-6.640026</x>
+			<y>20.228445</y>
+			<z>48.122784</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>CircleX0</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>CircleX1</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>CircleX2</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>CircleX3</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>billboard</type>
+		<object-name>CircleX4</object-name>
+		<spherical type="bool">true</spherical>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>CircleX0</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../CircleXparams/light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../CircleXparams/light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../CircleXparams/light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>CircleX1</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../CircleXparams/light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../CircleXparams/light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../CircleXparams/light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>CircleX2</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../CircleXparams/light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../CircleXparams/light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../CircleXparams/light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>CircleX3</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../CircleXparams/light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../CircleXparams/light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../CircleXparams/light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+	<animation>
+		<type>dist-scale</type>
+		<object-name>CircleX4</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep alias="../../../../CircleXparams/light-near"/>
+			</entry>
+			<entry>
+				<ind>500</ind>
+				<dep alias="../../../../CircleXparams/light-med"/>
+			</entry>
+			<entry>
+				<ind>16000</ind>
+				<dep alias="../../../../CircleXparams/light-far"/>
+			</entry>
+		</interpolation>
+	</animation>
+
+</PropertyList>

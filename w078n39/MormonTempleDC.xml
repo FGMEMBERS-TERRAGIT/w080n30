@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+
+<!-- replaces:
+OBJECT_SHARED Models/fgfsdb/generic_skyscraper_09.ac -77.0650000 39.0141670 -317.12 180
+in file w080n30/w078n39/1679427.stg
+-->
+
+<PropertyList>
+
+ <path>MormonTempleDC.ac</path>
+
+<!-- LIGHTS -->
+
+ <animation>
+  <type>material</type>
+  <name>bronze</name>
+  <global type="bool">true</global>
+  <object-name>Spires</object-name>
+  <emission>
+	<factor>-1</factor>
+	<offset>0.55</offset>
+   <!--red>0.36</red>
+   <green>0.26</green>
+   <blue>0.06</blue-->
+	<red-prop>/rendering/scene/diffuse/red</red-prop>
+	<green-prop>/rendering/scene/diffuse/green</green-prop>
+	<blue-prop>/rendering/scene/diffuse/blue</blue-prop>
+  </emission>
+ </animation>
+
+ <animation>
+  <type>material</type>
+  <name>gold</name>
+  <global type="bool">true</global>
+  <object-name>Moroni</object-name>
+  <emission>
+	<factor>-1</factor>
+	<offset>0.8</offset>
+   <!--red>0.48</red>
+   <green>0.39</green>
+   <blue>0.0</blue-->
+	<red-prop>/rendering/scene/diffuse/red</red-prop>
+	<green-prop>/rendering/scene/diffuse/green</green-prop>
+	<blue-prop>/rendering/scene/diffuse/blue</blue-prop>
+  </emission>
+ </animation>
+
+ <animation>
+  <type>material</type>
+  <object-name>Windows</object-name>
+  <emission>
+   <red>0.09</red>
+   <green>0.27</green>
+   <blue>0.41</blue>
+  </emission>
+ </animation>
+
+ <animation>
+  <type>material</type>
+  <name>stone</name>
+  <global>true</global>
+  <object-name>Temple</object-name>
+  <object-name>TempleHigh</object-name>
+  <object-name>TempleLow</object-name>
+  <object-name>TempleFluted</object-name>
+  <object-name>TempleHighFluted</object-name>
+  <object-name>Doors</object-name>
+  <emission>
+	<factor>-1</factor>
+	<offset>0.5</offset>
+   <!--red>0.35</red>
+   <green>0.35</green>
+   <blue>0.35</blue-->
+	<red-prop>/rendering/scene/diffuse/red</red-prop>
+	<green-prop>/rendering/scene/diffuse/green</green-prop>
+	<blue-prop>/rendering/scene/diffuse/blue</blue-prop>
+  </emission>
+ </animation>
+
+<!-- LOD -->
+
+ <animation>
+  <type>range</type>
+  <object-name>TempleHigh</object-name>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>TempleHighFluted</object-name>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>RoofHigh</object-name>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>TempleLow</object-name>
+  <min-property>/sim/rendering/static-lod/detailed</min-property>
+  <max-m>25000</max-m>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <object-name>RoofLow</object-name>
+  <min-property>/sim/rendering/static-lod/detailed</min-property>
+  <max-m>25000</max-m>
+ </animation>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>25000</max-m>
+ </animation>
+
+</PropertyList>
+
