@@ -164,3 +164,4 @@ OBJECT_SHARED Models/Industrial/generic_tank_030m_grey.ac -75.47318 37.93932 -76
 OBJECT_SHARED Models/lib/LgMaint.ac -75.47002 37.94094 10.09 179.29
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -75.46654 37.94089 10.60 327.85
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -75.3559946 37.9111693 -2.44 0
