@@ -167,9 +167,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.514276 37.125724 55.07 324.8
 # do not edit below this line
 #
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -77.50328 37.18403 56.25 228.58
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50242 37.18417 56.99 225
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50378 37.18313 56.31 229.72
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50335 37.18348 56.34 227.61
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50242 37.18417 56.99 45
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50378 37.18313 56.31 49.72
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -77.50335 37.18348 56.34 47.61
 OBJECT_SHARED Models/lib/LongRow.ac -77.50121 37.18392 56.39 47
 OBJECT_SHARED Models/lib/LongRow.ac -77.50146 37.18311 56.42 47
 OBJECT_SHARED Models/lib/LongRow.ac -77.50044 37.18347 55.87 47
