@@ -149,3 +149,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.521474 36.750149 4.98 17.17
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.521153 36.750149 4.98 202.52
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.520557 36.750347 4.98 196.61
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.514485 36.751267 5 198.8
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58121 36.77452 11.18 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58110 36.77452 10.95 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58121 36.77444 11.17 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58100 36.77453 10.72 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58100 36.77444 10.71 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58099 36.77436 10.71 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58110 36.77436 10.94 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.58120 36.77435 11.17 0
+# END dsf2stg

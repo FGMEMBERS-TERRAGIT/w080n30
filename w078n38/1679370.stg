@@ -100,3 +100,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.3619709 38.2413841 1.04 236.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.3600998 38.243575 1.06 236.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.3580485 38.2460422 1 236.43
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.3560744 38.2483407 1.58 235.84
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -77.35621 38.14769 59.83 233
+OBJECT_SHARED Models/lib/trailer-fedex.ac -77.35914 38.14607 63.20 255
+OBJECT_SHARED Models/lib/trailer-fedex.ac -77.35917 38.14610 63.26 255
+OBJECT_SHARED Models/lib/trailer-fedex.ac -77.35919 38.14614 63.26 255
+OBJECT_SHARED Models/lib/trailer-fedex.ac -77.35939 38.14609 63.37 330
+# END dsf2stg
