@@ -8,3 +8,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -74.853056 38.999444 -139.0
 OBJECT_SHARED Models/Communications/radio-medium.xml -74.813056 38.9925 -130.72 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.9645 38.944502 -453.76 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.964389 38.944943 -453.6 180
+OBJECT_STATIC Morey_Pier_Wheel.xml -74.809279 38.985272 0.31 50
