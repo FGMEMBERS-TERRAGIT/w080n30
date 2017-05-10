@@ -309,3 +309,4 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.04287 38.85614 6.02 62.8
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.04344 38.85600 6.30 62.82
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml -77.04390 38.85607 6.53 334.14
 # END dsf2stg
+OBJECT_STATIC Capital_Wheel.xml -77.019201 38.78562 0.37 77

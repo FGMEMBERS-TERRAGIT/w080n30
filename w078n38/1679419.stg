@@ -181,3 +181,4 @@ OBJECT_SHARED Models/lib/cars4.ac -77.07844 38.91066 42.48 24
 OBJECT_SHARED Models/lib/cars4.ac -77.07813 38.91074 44.71 285
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -77.07741 38.91066 46.85 340
 # END dsf2stg
+OBJECT_STATIC White_House.ac -77.0365 38.8977 12.32 90
