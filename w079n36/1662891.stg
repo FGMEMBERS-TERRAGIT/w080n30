@@ -99,20 +99,3 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.020064 36.733809 69.34 5.52
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.016844 36.734054 84.61 5.69
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.011374 36.734511 87.38 5.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.005216 36.734981 85.75 4.14
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -78.05199 36.68994 122.38 92.86
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -78.05172 36.68815 120.62 245.56
-OBJECT_SHARED Models/lib/farm19x12.ac -78.05145 36.69035 121.87 272.23
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -78.05188 36.69013 122.35 92.57
-OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -78.05228 36.69024 123.01 91.7
-OBJECT_SHARED Models/lib/LongRow.ac -78.05109 36.68764 119.55 182.68
-OBJECT_SHARED Models/lib/LongRow.ac -78.05114 36.68801 119.88 182.68
-OBJECT_SHARED Models/lib/LongRow.ac -78.05190 36.68904 121.62 272.38
-OBJECT_SHARED Models/lib/LongRow.ac -78.05193 36.68948 121.98 272.38
-OBJECT_SHARED Models/lib/SmHangar.ac -78.05133 36.68868 120.69 1.81
-OBJECT_SHARED Models/lib/SmHangar.ac -78.05132 36.68895 121.08 1.96
-OBJECT_SHARED Models/lib/SmHangar.ac -78.05135 36.68930 121.50 1.61
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -78.05151 36.68991 121.66 1.5
-# END dsf2stg

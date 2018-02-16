@@ -79,17 +79,3 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.032095 36.770167 2.15 3.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.031405 36.769606 2 4.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.029418 36.769723 2.21 4.23
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.027585 36.769832 2.44 4.25
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/Airport/Avgas_Pump.ac -76.03409 36.86531 4.00 15
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03428 36.86512 4.05 350
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03447 36.86514 4.00 350
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03418 36.86543 4.00 255
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03413 36.86555 4.00 255
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03409 36.86566 4.00 255
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03416 36.86578 4.00 80
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03451 36.86528 4.00 255
-OBJECT_SHARED Models/lib/lamp10m.xml -76.03454 36.86518 4.00 85
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -76.03443 36.86575 4.00 0
-# END dsf2stg
