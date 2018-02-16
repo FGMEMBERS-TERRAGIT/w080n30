@@ -6,9 +6,3 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -75.672778 36.029167 -144.1
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.663889 36.023333 -160.38 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.653222 36.003778 -153.24 180
 OBJECT_STATIC ww-mem.ac -75.6678147 36.01406222 16.38 0
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/lib/admin31x12.ac -75.67190 36.01493 2.06 67.8446
-OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -75.67235 36.01502 2.24 156.682
-# END dsf2stg

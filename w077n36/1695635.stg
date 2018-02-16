@@ -66,23 +66,3 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.117268 36.366128 0.97 209.8
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.110399 36.369216 0.97 209.13
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.104883 36.371687 1.1 209.32
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.103078 36.372511 1.77 209.47
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -76.17234 36.25425 1.26 181.56
-OBJECT_SHARED Models/Aircraft/Cessna172.xml -76.17317 36.25357 1.33 211.3
-OBJECT_SHARED Models/lib/SmHangar.ac -76.17367 36.25321 1.38 300.52
-OBJECT_SHARED Models/lib/MedHangar.ac -76.17431 36.25328 1.41 212.27
-OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -76.17431 36.25274 -93.57 270
-OBJECT_SHARED Models/lib/HorizTanks2.ac -76.17203 36.25407 1.25 299.59
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.16815 36.25590 1.04 210.36
-OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -76.16807 36.25578 1.04 210.36
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.17456 36.26424 0.93 132.78
-OBJECT_SHARED Models/lib/office32x25.ac -76.17552 36.26544 0.85 42.97
-OBJECT_SHARED Models/lib/office32x25n.ac -76.17416 36.26419 0.91 41.91
-OBJECT_SHARED Models/lib/office32x25.ac -76.15903 36.26318 0.74 87.4
-OBJECT_SHARED Models/lib/office32x25.ac -76.15865 36.26316 0.76 87.4
-OBJECT_SHARED Models/lib/office40x25.ac -76.15894 36.26255 0.81 87.37
-OBJECT_SHARED Models/lib/office32x25n.ac -76.15945 36.26254 0.80 86.91
-OBJECT_SHARED Models/lib/office65x50.ac -76.16112 36.26284 0.74 26.34
-# END dsf2stg
