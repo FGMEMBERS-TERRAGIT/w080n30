@@ -1,6 +1,6 @@
-OBJECT_SHARED Models/Airport/ils.xml -75.461153 39.140558 4.63 176.78
 OBJECT_SHARED Models/Airport/tacan.xml -75.467333 39.132333 6.03 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.490556 39.148611 -148.68 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.49 39.185556 -119.45 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.449722 39.150833 -165.47 180
 OBJECT_SHARED Models/Airport/localizer.xml -75.462386 39.147878 4.69 93.21
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml -75.461153 39.140558 4.63 176.78

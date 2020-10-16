@@ -41,3 +41,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.207835 39.813294 3.78 182.42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.20688 39.813533 3.82 213.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.206631 39.813759 3.96 213.18
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.205963 39.813912 3.97 196.6
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -74.107203 39.866204 -0.31 0
