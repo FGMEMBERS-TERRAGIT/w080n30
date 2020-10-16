@@ -1,4 +1,3 @@
-OBJECT_SHARED Models/Airport/ils.xml -75.462706 39.120264 6.47 356.79
 OBJECT_SHARED Models/Airport/marker.ac -75.464733 39.112864 4.88 180
 OBJECT_SHARED Models/Airport/localizer.xml -75.464831 39.114317 5.37 273.24
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.453552 39.041984 8.08 63.97
@@ -13,3 +12,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.444886 39.048447 1.51 47.48
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.444584 39.048721 1.65 42.28
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.444454 39.048792 1.74 35.12
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.415833 39.00022 3.64 273.59
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml -75.462706 39.120264 6.47 356.79

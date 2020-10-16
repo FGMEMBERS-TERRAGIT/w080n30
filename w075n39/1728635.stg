@@ -12,3 +12,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -74.164167 39.875 -47.15 18
 OBJECT_SHARED Models/Communications/radio-medium.xml -74.155833 39.903889 -131.7 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -74.155556 39.903889 -131.84 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.226629 39.875118 12.33 109.38
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -74.100122 39.938155 -0.12 0
