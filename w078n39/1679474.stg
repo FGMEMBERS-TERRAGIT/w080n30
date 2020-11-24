@@ -4,3 +4,12 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -77.369722 39.755583 168.07
 OBJECT_SHARED Models/Communications/radio-medium.xml -77.369167 39.757861 140.54 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -77.313306 39.824806 43.11 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -77.268722 39.869778 51.48 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -77.35354 39.76012 0.00 317.698
+OBJECT_SHARED Models/Misc/picnic_table.ac -77.35394 39.76009 168.13 226.374
+OBJECT_SHARED Models/lib/LongRow.ac -77.34987 39.75688 168.84 307.56
+OBJECT_SHARED Models/lib/LongRow.ac -77.35173 39.75874 161.08 307.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.35312 39.76013 164.68 0
+# END dsf2stg

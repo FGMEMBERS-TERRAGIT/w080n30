@@ -30,3 +30,8 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -75.449444 39.914167 -3
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.338611 39.956389 -353.59 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.264444 39.888889 -435.46 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.261111 39.890833 -452.47 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac -75.26494 39.87510 2.56 356.11
+# END dsf2stg

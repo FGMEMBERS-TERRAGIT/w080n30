@@ -29,3 +29,16 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.254235 38.905245 184.25 56.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.25363 38.905965 203.24 58.75
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.250345 38.910517 212.28 54.45
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.250175 38.910665 208.31 49.02
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -78.25488 38.91877 0.00 273.66
+OBJECT_SHARED Models/lib/LongRow.ac -78.25607 38.91838 206.96 3
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.25414 38.91877 206.93 2.57
+OBJECT_SHARED Models/lib/LongRow.ac -78.25364 38.91880 207.50 3
+OBJECT_SHARED Models/lib/LongRow.ac -78.25382 38.91847 207.86 3
+OBJECT_SHARED Models/lib/LongRow.ac -78.25255 38.91852 208.07 183
+OBJECT_SHARED Models/lib/LongRow.ac -78.25495 38.91843 208.96 183
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.25385 38.91889 210.21 181.48
+OBJECT_SHARED Models/lib/NoParkStripes.xml -78.25470 38.91844 209.41 92.15
+# END dsf2stg

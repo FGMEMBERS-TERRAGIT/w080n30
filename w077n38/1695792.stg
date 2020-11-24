@@ -82,3 +82,46 @@ OBJECT_STATIC hangar-jrb-lg1.xml -76.878848 38.818424 79.09 180
 OBJECT_STATIC hangar-jrb-lg1.xml -76.878838 38.808966 80.23 180
 OBJECT_STATIC hangar-af1.xml -76.8792384 38.80075 80.78 0
 OBJECT_STATIC wt-kadw.xml -76.883879 38.822174 79.27 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92981 38.75173 72.99 325.89
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93001 38.75149 72.46 312.58
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93246 38.75151 72.68 234.32
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93241 38.75161 73.00 234.16
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93091 38.75160 73.02 228.5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92966 38.75184 73.12 307.57
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92991 38.75161 72.35 329.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93018 38.75143 72.57 283.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93129 38.75044 72.83 332.414
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93276 38.75151 73.52 230.06
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93286 38.75157 72.89 227.73
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93292 38.75160 72.80 236.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93227 38.75174 72.80 235.49
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93105 38.75157 73.02 237.59
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93231 38.75145 72.94 245.77
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93080 38.75091 73.43 143.91
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93205 38.75133 73.29 323.4
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93172 38.75179 73.19 323
+OBJECT_SHARED Models/lib/SmHangar.ac -76.93198 38.75176 73.60 146
+OBJECT_SHARED Models/lib/prop_a.ac -76.93043 38.75111 72.26 285.25
+OBJECT_SHARED Models/lib/prop_a.ac -76.93052 38.75109 73.06 330.12
+OBJECT_SHARED Models/lib/prop_a.ac -76.93045 38.75100 73.10 206.57
+OBJECT_SHARED Models/lib/prop_a.ac -76.93031 38.75118 73.15 51.34
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -76.93199 38.75098 72.97 135.644
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -76.93197 38.75096 73.24 155.556
+OBJECT_SHARED Models/lib/prop_a.ac -76.93224 38.75158 73.24 323.308
+OBJECT_SHARED Models/lib/prop_a.ac -76.93103 38.75054 73.07 99.03
+OBJECT_SHARED Models/lib/prop_a.ac -76.92952 38.75045 73.47 142.06
+OBJECT_SHARED Models/lib/cars2.ac -76.92949 38.75014 73.00 50.71
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92866 38.75084 72.28 321.8
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92882 38.75069 70.75 315.62
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92907 38.75047 70.86 302.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92914 38.75040 71.32 311.33
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.92946 38.75031 71.44 234.46
+OBJECT_SHARED Models/lib/office4x14.ac -76.93210 38.75097 72.74 54.07
+OBJECT_SHARED Models/lib/shed10x50.ac -76.93273 38.75140 73.22 144.02
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.93062 38.75077 72.95 54.46
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.93075 38.75084 73.27 54.46
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.93089 38.75091 73.33 54.46
+# END dsf2stg

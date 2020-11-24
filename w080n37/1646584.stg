@@ -4,3 +4,20 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -79.854778 37.919028 1070.9
 OBJECT_SHARED Models/Communications/radio-medium.xml -79.851944 37.924167 1104.97 180
 OBJECT_SHARED Models/Airport/marker.ac -79.759 37.986542 625.04 180
 OBJECT_SHARED Models/Airport/localizer.xml -79.843083 37.947047 1143.86 328.71
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac -79.83558 37.95323 0.00 210.61
+OBJECT_SHARED Models/lib/cars10.ac -79.83521 37.95339 1143.32 210.08
+OBJECT_SHARED Models/lib/cars10.ac -79.83566 37.95343 1143.36 29.65
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.83643 37.95308 1142.97 28.71
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -79.83492 37.95329 1142.74 0
+OBJECT_SHARED Models/lib/propane-tank.ac -79.83595 37.95325 1143.68 301.23
+OBJECT_SHARED Models/lib/lamp10m.xml -79.83481 37.95330 1142.83 170.96
+OBJECT_SHARED Models/lib/lamp10m.xml -79.83536 37.95303 1143.75 92.95
+OBJECT_SHARED Models/lib/propane-tank.ac -79.83594 37.95326 1143.65 301.23
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.83599 37.95258 1142.92 211.75
+OBJECT_SHARED Models/lib/HorizTanks2.ac -79.83633 37.95268 1143.56 120.21
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.82857 37.95302 1143.23 122.25
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.84277 37.94663 1143.20 124.04
+# END dsf2stg

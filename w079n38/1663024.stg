@@ -2,3 +2,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -78.949722 38.866667 515.94
 OBJECT_SHARED Models/Communications/radio-medium.xml -78.805 38.858889 764.62 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -78.768361 38.809833 321.98 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -78.999444 38.874167 274.47 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -78.76864 38.81789 0.00 49.2676
+OBJECT_SHARED Models/lib/prop_a.ac -78.76836 38.81791 383.76 311.135
+OBJECT_SHARED Models/lib/prop_a.ac -78.76844 38.81783 382.32 308.264
+# END dsf2stg

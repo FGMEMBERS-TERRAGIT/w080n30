@@ -181,3 +181,33 @@ OBJECT_STATIC KDCA.ac -77.042698 38.846869 4.77 90
 OBJECT_STATIC KDCA_Rwy15Fence.ac -77.045173 38.860708 5.14 90
 OBJECT_STATIC DC_WilliamsBridge.ac -77.042542 38.872639 1.64 90
 OBJECT_STATIC Capital_Wheel.xml -77.019201 38.78562 0.37 77
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars6.ac -77.01243 38.79397 0.00 5.38
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01220 38.79345 6.93 4
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01220 38.79348 6.69 4
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01221 38.79351 6.83 4
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01221 38.79354 6.83 4
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01242 38.79382 6.83 3
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01206 38.79384 6.66 3
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01203 38.79356 7.61 3
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -77.01240 38.79354 7.66 3
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01235 38.79406 5.67 243.43
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01244 38.79406 6.52 238.39
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01252 38.79403 6.52 250.02
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01258 38.79403 6.12 221.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01258 38.79397 5.81 231.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01255 38.79385 5.81 225
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01254 38.79379 6.01 231.34
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01259 38.79368 5.86 228.24
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01249 38.79370 5.40 235.01
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01250 38.79361 5.72 259.82
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01252 38.79355 5.56 257.47
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01250 38.79351 5.56 257.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01231 38.79335 5.33 200.56
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01231 38.79339 5.72 196.7
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01237 38.79344 5.85 171.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01245 38.79343 5.51 188.53
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.01204 38.79347 5.12 216.87
+# END dsf2stg

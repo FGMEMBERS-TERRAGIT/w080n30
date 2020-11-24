@@ -237,3 +237,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.500047 39.26923 9.41 81.5
 OBJECT_STATIC ft-mchenry.ac -76.579836 39.263236 17.2 216
 OBJECT_STATIC baltimore-power-plant.ac -76.6071 39.28591944 65.94 4
 OBJECT_STATIC balt-world-trade-ctr.ac -76.60966944 39.28606111 66.05 324
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -76.66050 39.35136 0.00 186
+OBJECT_SHARED Models/lib/office65x50.ac -76.65904 39.35363 123.39 150
+# END dsf2stg

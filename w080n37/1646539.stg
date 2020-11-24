@@ -33,3 +33,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.091408 37.155041 232.89 15.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.09071 37.1552 234.85 15.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.088896 37.155613 239.22 16.77
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.08651 37.156216 239.29 17.59
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.01762 37.13896 0.00 216.416
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -79.01907 37.13852 180.67 216.831
+OBJECT_SHARED Models/lib/stack_of_cones.ac -79.01908 37.13854 180.56 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.01889 37.13829 180.56 125.945
+# END dsf2stg

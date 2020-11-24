@@ -202,3 +202,30 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.812431 38.265263 358.99 238.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.812299 38.265495 359.76 245.93
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.812138 38.266186 360.95 284.49
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.812062 38.265978 361.18 286.01
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75267 38.33323 0.00 265.073
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75302 38.33311 327.27 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75311 38.33307 327.01 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75317 38.33304 326.82 267.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75326 38.33301 326.93 250.821
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75344 38.33292 326.74 258.024
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75358 38.33287 326.86 256.908
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75483 38.33241 326.48 252.553
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75492 38.33238 325.72 255.256
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75504 38.33233 325.53 256.607
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75563 38.33209 325.65 277.595
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75568 38.33207 325.12 263.66
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75576 38.33205 324.93 243.435
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75580 38.33203 324.82 267.614
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75585 38.33200 325.05 251.565
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75593 38.33199 325.09 261.254
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75601 38.33195 325.09 270
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75612 38.33191 325.36 253.495
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75623 38.33186 325.52 253.301
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75658 38.33173 325.67 235.008
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.75682 38.33163 326.53 243.435
+OBJECT_SHARED Models/lib/SmHangar.ac -78.75635 38.33169 326.96 119.337
+OBJECT_SHARED Models/lib/SmHangar.ac -78.75509 38.33217 326.06 119.337
+# END dsf2stg

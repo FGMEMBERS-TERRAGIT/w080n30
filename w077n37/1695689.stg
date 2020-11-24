@@ -20,3 +20,51 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.628931 37.230525 20.31 307.0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.62834 37.229903 17.07 315.08
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.628168 37.2298 16.56 321.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.626536 37.228692 25.16 319.55
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/belt_loader.ac -76.50222 37.12998 0.00 169.31
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -76.50199 37.12972 9.81 77.24
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.50178 37.12724 10.58 122
+OBJECT_SHARED Models/lib/MedHangar.ac -76.50285 37.12677 9.71 122
+OBJECT_SHARED Models/lib/MedHangar.ac -76.50219 37.12704 9.62 122
+OBJECT_SHARED Models/lib/MedHangar.ac -76.50201 37.13680 9.68 209
+OBJECT_SHARED Models/lib/LongRow.ac -76.50112 37.13753 10.49 302
+OBJECT_SHARED Models/lib/LongRow.ac -76.50068 37.13762 10.58 302
+OBJECT_SHARED Models/lib/admin-with-cars.ac -76.50008 37.13479 10.58 167
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50088 37.13618 10.16 302
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50109 37.13607 10.37 302
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50131 37.13597 10.36 301
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50147 37.13602 10.35 210
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50160 37.13620 10.36 210
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50173 37.13637 10.39 210
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50185 37.13655 10.42 210
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50212 37.13718 10.44 121
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50189 37.13729 10.56 121
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50168 37.13740 10.57 121
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50145 37.13750 10.58 121
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50089 37.13778 10.59 121
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50067 37.13789 10.63 121
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -76.50462 37.12951 9.81 35
+OBJECT_SHARED Models/lib/FireStationLg.ac -76.50035 37.13360 10.00 77
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.50477 37.12932 10.04 33
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.50469 37.12922 10.05 33
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.50431 37.12846 10.06 32
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.50015 37.13168 6.60 86
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.50005 37.13227 9.90 166
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.50017 37.13156 10.18 79
+OBJECT_SHARED Models/lib/fuel-truck.xml -76.50019 37.13150 9.89 79
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50047 37.13669 10.16 122
+OBJECT_SHARED Models/lib/SmHangar.ac -76.50008 37.13697 10.43 212.01
+OBJECT_SHARED Models/lib/belt_loader.ac -76.50399 37.12946 10.02 165
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -76.50377 37.12985 9.71 75
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -76.50397 37.12949 9.74 165
+OBJECT_SHARED Models/lib/chariot3curve.ac -76.50394 37.12950 9.71 110
+OBJECT_SHARED Models/lib/caisses_group.ac -76.50193 37.12971 9.71 77.35
+OBJECT_SHARED Models/lib/caisses_group.ac -76.50188 37.12968 9.79 77.35
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.50312 37.12967 9.79 77.36
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.50225 37.12972 9.76 202.33
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.50094 37.12984 9.79 202.33
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.50104 37.12963 9.81 202.04
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -76.50195 37.12963 9.81 181.71
+# END dsf2stg

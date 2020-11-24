@@ -192,3 +192,41 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.303224 37.255086 96.18 321.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.300484 37.253339 116.52 315.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.298998 37.251883 130.59 309.07
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.297286 37.250203 131.28 309.06
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -78.43728 37.35533 0.00 322.9
+OBJECT_SHARED Models/lib/cars7.ac -78.43700 37.35484 121.58 249
+OBJECT_SHARED Models/lib/cars7.ac -78.43701 37.35486 121.81 69
+OBJECT_SHARED Models/lib/cars10.ac -78.43710 37.35504 121.93 339.07
+OBJECT_SHARED Models/lib/cars10.ac -78.43689 37.35463 121.94 159.28
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43537 37.35724 121.54 171.87
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43542 37.35715 122.00 169.99
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43547 37.35705 122.00 163.07
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43560 37.35677 122.00 160.25
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43638 37.35572 121.90 265.36
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43624 37.35581 121.18 236.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43688 37.35458 121.16 248.4
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43724 37.35470 121.54 244.09
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43728 37.35512 121.72 236.31
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43646 37.35517 121.80 176.35
+OBJECT_SHARED Models/Trees/billboard-tree.xml -78.43673 37.35481 121.67 164.69
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.43725 37.35527 121.76 247.33
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.43658 37.35519 121.59 68.79
+OBJECT_SHARED Models/Transport/hatchback_black.ac -78.43660 37.35516 121.70 68.79
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43723 37.35529 121.70 339.02
+OBJECT_SHARED Models/lib/lamp10m.xml -78.43751 37.35538 121.59 339.02
+OBJECT_SHARED Models/lib/transformer3x3.ac -78.43768 37.35539 120.55 159
+OBJECT_SHARED Models/lib/industrial13x24.ac -78.43682 37.35468 120.53 338.64
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43588 37.35655 121.65 70
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43605 37.35660 121.64 70
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43595 37.35640 121.50 250
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43615 37.35646 121.49 250
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43635 37.35652 121.42 250
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43643 37.35627 121.28 70
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43606 37.35616 121.13 70
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43624 37.35621 121.24 70
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43641 37.35601 121.19 250
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43621 37.35595 121.12 250
+OBJECT_SHARED Models/lib/SmHangar.ac -78.43655 37.35583 121.17 339
+# END dsf2stg

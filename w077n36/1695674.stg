@@ -28,3 +28,14 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.4758687 36.9987508 -0.08 225
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -76.4149599 36.9560132 -0.11 28.7
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -76.4068554 36.9546157 -0.07 96.54
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -76.411948 36.9522788 -0.11 153.27
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office65x50.ac -76.30423 36.92966 0.00 100.86
+OBJECT_SHARED Models/lib/office112x50.ac -76.30347 36.92974 1.40 7.57
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.30404 36.92939 1.39 7.72
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.30177 36.93167 1.93 185
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.30183 36.93167 2.48 185
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.30190 36.93166 2.48 185
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.30197 36.93165 2.44 185
+# END dsf2stg

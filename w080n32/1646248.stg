@@ -2,3 +2,9 @@ OBJECT_SHARED Models/Airport/ils.xml -79.995425 32.706164 1.09 264.62
 OBJECT_SHARED Models/Communications/radio-medium.xml -79.944278 32.727417 -115.58 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -79.944167 32.7275 -115.65 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -79.887222 32.684167 -104.42 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -79.99516 32.70618 5.41 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -79.99513 32.70618 1.01 90
+# END dsf2stg

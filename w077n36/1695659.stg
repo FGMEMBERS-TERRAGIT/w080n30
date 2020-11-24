@@ -74,3 +74,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.191861 36.685418 5.51 59.43
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.190943 36.68726 5.46 68.23
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.190382 36.688387 5.42 68.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.19028 36.688591 5.41 295.47
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office8x14.ac -76.12936 36.70546 0.00 205
+OBJECT_SHARED Models/lib/office8x14.ac -76.12866 36.70430 3.03 200
+OBJECT_SHARED Models/lib/trailer-fedex.ac -76.12926 36.70543 2.97 115.01
+OBJECT_SHARED Models/lib/FireStationLg.ac -76.12870 36.70523 3.02 205
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -76.12906 36.70567 -92.02 0
+OBJECT_SHARED Models/lib/office4x14.ac -76.12873 36.70447 3.01 203
+OBJECT_SHARED Models/lib/office40x25.ac -76.12851 36.70471 2.97 295
+OBJECT_SHARED Models/lib/office32x25n.ac -76.12836 36.70588 2.96 254
+# END dsf2stg

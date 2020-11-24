@@ -214,3 +214,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.758247 36.665219 96.55 355.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.754928 36.665004 96 355.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.75415 36.664954 96 355.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.750225 36.6647 133.11 350.39
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -78.85046 36.71487 0.00 3.32
+OBJECT_SHARED Models/lib/LongRow.ac -78.85049 36.71520 121.58 3.32
+OBJECT_SHARED Models/lib/HorizTanks2.ac -78.84943 36.70938 122.00 149.81
+OBJECT_SHARED Models/lib/MedHangar.ac -78.84987 36.71073 118.10 183.32
+OBJECT_SHARED Models/lib/SmHangar.ac -78.84960 36.70902 118.48 240.93
+# END dsf2stg

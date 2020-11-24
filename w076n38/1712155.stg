@@ -21,3 +21,11 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -75.055556 38.428056 -4
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -75.058333 38.409722 -434.79 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -75.055278 38.422778 -434.77 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -75.056667 38.412778 -451.38 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -75.15641 38.44032 0.00 175.26
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -75.15646 38.44031 3.95 358.6
+OBJECT_SHARED Models/lib/garage-small-white.ac -75.15644 38.44026 3.95 89.68
+OBJECT_SHARED Models/Trees/billboard-tree.xml -75.15671 38.44049 3.95 184.24
+# END dsf2stg

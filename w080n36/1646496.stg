@@ -116,3 +116,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.754719 36.538545 220.05 175.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.754365 36.560894 197.48 346.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.751589 36.560379 199.31 347.13
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.751319 36.56033 200.64 340.56
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -79.89310 36.58380 0.00 269.97
+# END dsf2stg

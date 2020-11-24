@@ -103,3 +103,19 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.061375 35.002417 8.93 285.91
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.060998 35.002644 8.81 149.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.060856 35.000447 9.37 279.78
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.056154 35.000192 8.67 147.93
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.04326 35.07688 0.00 142.25
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.04255 35.07772 2.54 142.34
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -77.04222 35.07806 2.38 142.34
+OBJECT_SHARED Models/lib/LongRow.ac -77.04363 35.08008 2.29 232.98
+OBJECT_SHARED Models/lib/LongRow.ac -77.04304 35.07870 1.81 232.98
+OBJECT_SHARED Models/lib/LongRow.ac -77.04253 35.07926 2.16 232.98
+OBJECT_SHARED Models/lib/FireStationLg.ac -77.03443 35.07894 2.00 120.05
+OBJECT_SHARED Models/lib/RampParking.xml -77.03514 35.07907 2.67 32.44
+OBJECT_SHARED Models/lib/RampParking.xml -77.03890 35.07321 2.44 99.81
+OBJECT_SHARED Models/lib/RampParking.xml -77.03898 35.07357 3.49 99.81
+OBJECT_SHARED Models/lib/RampParking.xml -77.03905 35.07391 3.39 99.81
+OBJECT_SHARED Models/lib/RampParking.xml -77.03553 35.07879 3.32 32.44
+# END dsf2stg

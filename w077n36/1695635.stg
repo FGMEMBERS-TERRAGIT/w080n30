@@ -66,3 +66,35 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.117268 36.366128 0.97 209.8
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.110399 36.369216 0.97 209.13
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.104883 36.371687 1.1 209.32
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.103078 36.372511 1.77 209.47
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -76.21717 36.32449 0.00 37
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21685 36.32463 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21682 36.32459 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21679 36.32456 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21676 36.32453 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21673 36.32450 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21667 36.32443 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21670 36.32446 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21670 36.32440 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21674 36.32438 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21679 36.32435 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21683 36.32433 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21687 36.32431 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21691 36.32428 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21694 36.32431 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21697 36.32434 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21703 36.32441 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21707 36.32444 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21710 36.32447 1.50 0
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21706 36.32450 1.50 1.01001
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21690 36.32460 1.50 1.01001
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21702 36.32452 1.50 1.01001
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21694 36.32457 1.50 1.01001
+OBJECT_SHARED Models/Effects/GreenLight6000.xml -76.21698 36.32455 1.50 1.01001
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.21599 36.32477 1.00 37
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.21762 36.32448 0.72 128
+OBJECT_SHARED Models/lib/shed10x50.ac -76.21820 36.32474 1.00 39
+OBJECT_SHARED Models/lib/office4x14.ac -76.21712 36.32483 1.00 305
+# END dsf2stg

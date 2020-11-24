@@ -181,3 +181,25 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.253587 38.728641 81.85 217.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.252391 38.729426 83.59 218.14
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.251745 38.729795 84.84 214.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.250935 38.730205 86.56 214.21
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -77.28629 38.63828 0.00 40
+OBJECT_SHARED Models/lib/lamp10m.xml -77.28656 38.63853 54.55 220
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28665 38.63861 55.70 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28675 38.63831 55.98 44.8105
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28663 38.63821 54.95 45.8166
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28653 38.63812 54.70 45.38
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28621 38.63824 54.72 310.894
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28645 38.63819 54.71 303.836
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28627 38.63802 54.67 304.647
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28628 38.63889 54.94 5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28711 38.63810 55.20 5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28704 38.63807 54.26 5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28721 38.63817 54.29 5
+OBJECT_SHARED Models/Trees/billboard-tree.xml -77.28550 38.63820 54.65 5
+OBJECT_SHARED Models/lib/cone.ac -77.28674 38.63862 55.14 262.492
+OBJECT_SHARED Models/lib/cone.ac -77.28675 38.63861 55.98 262.492
+OBJECT_SHARED Models/lib/cone.ac -77.28676 38.63860 55.91 262.492
+OBJECT_SHARED Models/lib/cone.ac -77.28678 38.63859 55.91 262.492
+# END dsf2stg

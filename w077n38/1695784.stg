@@ -127,3 +127,35 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.755099 38.682149 41.55 281.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.753996 38.678853 43.05 288.27
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.75386 38.678589 43.7 291.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.7505 38.672035 31.06 291.83
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93576 38.74454 0.00 142.59
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93554 38.74471 72.94 135
+OBJECT_SHARED Models/lib/prop_a.ac -76.93494 38.74571 73.00 224.71
+OBJECT_SHARED Models/lib/prop_a.ac -76.93505 38.74563 72.21 140.74
+OBJECT_SHARED Models/lib/prop_a.ac -76.93567 38.74506 72.18 140.74
+OBJECT_SHARED Models/lib/prop_a.ac -76.93515 38.74553 72.15 140.74
+OBJECT_SHARED Models/lib/prop_a.ac -76.93516 38.74538 72.09 222.32
+OBJECT_SHARED Models/lib/prop_a.ac -76.93498 38.74544 72.16 318.98
+OBJECT_SHARED Models/lib/prop_a.ac -76.93514 38.74531 72.26 318.98
+OBJECT_SHARED Models/lib/prop_a.ac -76.93525 38.74529 72.28 89.13
+OBJECT_SHARED Models/lib/prop_a.ac -76.93530 38.74524 72.23 89.13
+OBJECT_SHARED Models/lib/prop_a.ac -76.93525 38.74514 72.25 194.4
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93594 38.74438 73.00 132.51
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93588 38.74444 72.87 147.53
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93569 38.74460 72.87 136.98
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93562 38.74465 72.97 130.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93547 38.74477 72.99 136.91
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93322 38.74721 72.98 226.89
+OBJECT_SHARED Models/Trees/billboard-tree.xml -76.93581 38.74449 73.06 137.86
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93322 38.74686 73.09 229.16
+OBJECT_SHARED Models/lib/hangar81x16.ac -76.93388 38.74625 73.81 228.82
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.93038 38.74963 73.05 318.88
+OBJECT_SHARED Models/lib/HorizTanks2.ac -76.93055 38.74940 73.53 48
+OBJECT_SHARED Models/lib/propane-tank.ac -76.93048 38.74938 73.60 229
+OBJECT_SHARED Models/lib/industrial13x24.ac -76.93283 38.74717 73.05 48.37
+OBJECT_SHARED Models/lib/shed10x50.ac -76.93497 38.74536 73.88 228.45
+OBJECT_SHARED Models/lib/cars6.ac -76.93487 38.74537 72.68 49.22
+OBJECT_SHARED Models/lib/cars10.ac -76.93511 38.74516 73.08 48.4
+# END dsf2stg
